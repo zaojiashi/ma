@@ -1,0 +1,1038 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1600px) {
+.hero-thumb {
+	right: 99px;
+	position: relative;
+}	
+.counter-shape-one {
+	display: none;
+}	
+.counter-shape-tow {
+	display: none;
+}
+.brand-area {
+    background: #FEF4F3;
+    padding: 67px 30px 72px;
+}
+.skill-left {
+	left: -17px;
+}
+.skill-thumb img {
+	width: 90%;
+}
+.skill-thumb-shape-one {
+	right: -15px;
+}
+}
+/* Normal desktop :1200px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+.top-menu-text p {
+	font-size: 14px;
+}
+.header-contact-btn a {
+	font-size: 16px;
+	padding: 18px 25px;
+}
+.hero-title h1 {
+	font-size: 56px;
+}
+.hero-thumb {
+	position: relative;
+	right: 187px;
+}
+.section-mean-title h1 {
+	font-size: 34px;
+}
+.about-left::before {
+	right: 2px;
+}
+.about-thumb img {
+	width: 100%;
+}
+.about-shape {
+	right: -42px;
+}
+.about-shape img {
+	width: 80%;
+}
+.about-shape-two {
+	left: 157px;
+}
+.about-shape-two img {
+	width: 80%;
+}
+.skill-left {
+	left: -26px;
+}
+.skill-thumb img {
+	width: 100%;
+}
+.skill-thumb-shape-one img {
+	width: 80%;
+}
+.skill-thumb-shape-two img {
+	width: 80%;
+}
+.counter-shape-one {
+	display: none;
+}
+.counter-shape-tow {
+	display: none;
+}
+.brand-area {
+    background: #FEF4F3;
+    padding: 67px 15px 72px;
+}
+.subscribe-area .section-description p {
+	width: 53%;
+}
+.subscribe-area .button {
+	right: 215px;
+}
+.feature-box-btn {
+	left: 50px;
+}
+.sidebar-box {
+	padding: 34px 26px 46px;
+}
+.sidebar-menu ul li a {
+	font-size: 15px;
+}
+.recent-tost-text a {
+	font-size: 14px;
+}
+.service-details .search-button {
+	right: 58px;
+}
+.service-details .service-icon-box p {
+	font-size: 16px;
+}
+.faq-area .section-mean-title h1 {
+	font-size: 30px;
+}
+.protfolio-area .section-description p {
+	width: 42%;
+}
+.prot-content {
+	top: 88px;
+}
+.service-title h3 {
+	font-size: 20px;
+}
+.price-btn a {
+	margin: 40px 36px;
+}
+.blog-details-area .search-button {
+	right: 72px;
+}
+
+}
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.sub-menu ul li a::before {
+	bottom: 0px;
+}	
+.topber-area {
+	display: none;
+}
+.header-area {
+	display: none;
+}
+.header-menu ul li a {
+	padding: 20px 0px 20px 11px;
+}
+.header-contact-btn span {
+	font-size: 14px;
+}
+.hero-area {
+	height: 700px;
+}
+.hero-title h1 {
+	font-size: 47px;
+	line-height: 50px;
+}
+.hero-title h1 {
+	font-size: 35px;
+	line-height: 36px;
+}
+.hero-description p {
+	font-size: 16px;
+	margin: 16px 0 32px;
+}
+.hero-button a {
+	font-size: 15px;
+	padding: 15px 18px 15px;
+}
+.hero-button a i {
+	margin-left: 6px;
+}
+.hero-button a:hover::before {
+	width: 149%;
+}
+.hero-thumb img {
+	width: 100%;
+}
+.about-left::before {
+	height: 110px;
+	right:2px;
+}
+.about-thumb img {
+	width: 100%;
+}
+.about-shape {
+	right: -73px;
+	top: 243px;
+}
+.about-shape img {
+	width: 50%;
+}
+.about-shape-two {
+	top: 247px;
+	left: 133px;
+}
+.about-shape-two img {
+	width: 50%;
+}
+.about-title h3 {
+	font-size: 14px;
+}
+.service-area .section-description p {
+	width: 100%;
+}
+.section-mean-title h1 {
+	font-size: 22px;
+}
+.section-sub-title h3 {
+	font-size: 15px;
+}
+.skill-left {
+	left: -35px;
+}
+.skill-thumb img {
+	width: 100%;
+}
+.skill-thumb-shape-one {
+	right: -91px;
+}
+.skill-thumb-shape-one img {
+	width: 50%;
+}
+.skill-thumb-shape-two img {
+	width: 50%;
+}
+.counter-area {
+	padding: 0px 0 30px;
+}
+.row.counter-bg {
+	padding: 66px 0 42px;
+}
+.counter-single-box {
+	margin-bottom: 30px;
+}
+.counter-shape-one {
+	display: none;
+}
+.counter-shape-tow {
+	display: none;
+}
+.brand-area {
+    background: #FEF4F3;
+    padding: 67px 35px 72px;
+}
+.feature-area {
+	padding: 31px 0 55px;
+}
+.feature-area .section-description p {
+	width: 96%;
+}
+.owl-prev {
+	left: 134px;
+}
+.owl-next {
+	right: 131px;
+}
+.subscribe-area .section-description p {
+	width: 73%;
+}
+.subscribe-area .form-box input {
+	width: 81%;
+}
+.subscribe-area .button {
+	right: 67px;
+}
+.footer-bottom-right a {
+	padding-left: 10px;
+}
+.recent-post-item.active {
+	padding-bottom: 29px;
+}
+.team-area .section-description p {
+	width: 95%;
+}
+.blog-details-meta a {
+	margin-right: 5px;
+	font-size: 10px;
+}
+.blog-details-meta span {
+	font-size: 10px;
+}
+.meta-blog-right {
+	margin-left: 5px;
+	font-size: 10px;
+}
+.blog-details-title a h1 {
+	font-size: 19px;
+}
+.blog-details-title-two h3 {
+	font-size: 19px;
+}
+.sidebar-thumb-title a h2 {
+	font-size: 15px;
+}
+.blog-grid-area .section-description p {
+	width: 95%;
+}
+.service-single-item h1 {
+	font-size: 16px;
+	margin-bottom: 0;
+}
+.service-details .service-icon-box p {
+	font-size: 8px;
+}
+.service-details .search-button {
+	right: 50px;
+}
+.service-details .service-icon-box p i {
+	font-size: 12px;
+}
+.accordion h3 {
+	font-size: 14px;
+}
+.protfolio-area .section-description p {
+	width: 56%;
+}
+.pracing-single-box {
+	margin-bottom: 30px;
+}
+.price-btn a {
+	margin: 39px 59px;
+}
+.single-contacts-boxs {
+	margin: 0px -69px 0px 0px;
+}
+.contacts-titles h2 {
+	margin: 26px 0 34px;
+}
+
+}
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+.sub-menu ul li a::before {
+	bottom: 0px;
+}	
+.topber-area {
+	display: none;
+}	
+.header-area {
+	display: none;
+}
+.hero-area {
+	height: 1425px;
+}
+.hero-content {
+	text-align: center;
+}
+.hero-title h1 {
+	font-size: 54px;
+}
+.hero-description p {
+	width: 100%;
+}
+.hero-title h5::before {
+	left: 391px;
+}
+.hero-title h5::after {
+	left: 391px;
+}
+.hero-thumb img {
+	width: 100%;
+}
+.about-thumb img {
+	width: 100%;
+}
+.section-mean-title h1 {
+	font-size: 35px;
+}
+.about-left::before {
+	right: 2px;
+}
+.about-shape {
+	right: -34px;
+}
+.about-shape-two {
+	left: 165px;
+}
+.about-right {
+	margin-top: 86px;
+}
+.service-button {
+	text-align: left;
+	margin-bottom: 39px;
+}
+.service-area .section-description p {
+	width: 100%;
+}
+.skill-left {
+	left: 0;
+}
+.skill-thumb-shape-one {
+	right: -42px;
+}
+.skill-right {
+	margin-top: 35px;
+}
+.row.counter-bg {
+	background: #FEF4F3;
+}
+.counter-shape-one {
+	display: none;
+}
+.counter-shape-tow {
+	display: none;
+}
+.counter-single-box {
+	margin-bottom: 30px;
+}
+.feature-area {
+	padding: 18px 0 48px;
+}
+.feature-area .section-description p {
+	margin-top: 25px;
+	width: 100%;
+}
+.single-footer-box {
+	margin-bottom: 20px;
+}
+.feature-button {
+	text-align: left;
+	margin-bottom: 29px;
+}
+.feature-box-btn {
+	left: 160px;
+}
+.owl-prev {
+	display: none;
+}
+.owl-next {
+	display: none;
+}
+.testi-text p {
+	font-size: 21px;
+	width: 85%;
+}
+.testimonial-description p {
+	font-size: 14px;
+}
+.brand-area {
+    background: #FEF4F3;
+    padding: 67px 27px 72px;
+}
+.subscribe-area .section-description p {
+	width: 100%;
+}
+.subscribe-area .form-box input {
+	padding: 0 131px 0 21px;
+	height: 50px;
+	width: 66%;
+}
+.subscribe-area .button {
+	bottom: 59px;
+	right: 88px;
+}
+.button .btn {
+	padding: 10px 7px;
+}
+.recent-tost-text {
+	text-align: left;
+}
+.recent-post-item.active {
+	padding-bottom: 31px;
+}
+.footer-bottom-right {
+	text-align: center;
+	margin-top: 20px;
+}
+.team-area {
+	text-align: center;
+}
+.team-area .section-title {
+	text-align: left;
+}
+.team-area .section-description p {
+	width: 97%;
+}
+.blog-details-title a h1 {
+	font-size: 30px;
+}
+.blog-grid-area .section-description p {
+	width: 100%;
+}
+.single-blogs-thumb img {
+	margin-bottom: 20px;
+}
+.sidebar-thumb-title a h2 {
+	font-size: 20px;
+}
+.service-details .form-boxs input {
+	width: 110%;
+}
+.service-details .search-button {
+	right: 52px;
+}
+.tem-buttom {
+    text-align: left;
+}
+.protfolio-area .section-description p {
+	width: 60%;
+}
+.prot-content {
+	top: 207px;
+}
+.pracing-single-box {
+	margin-bottom: 30px;
+}
+.price-btn a {
+	margin: 39px 150px;
+}
+.blog-details-area .form-boxs input {
+	width: 111%;
+}
+#scrollUp {
+	right: 25px;
+}
+.contacts-titles h2 {
+	margin: 50px 0 34px;
+}
+
+}
+/* small mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 599px) {
+.sub-menu ul li a::before {
+	bottom: 0px;
+}		
+.topber-area {
+	display: none;
+}
+.header-area {
+	display: none;
+}
+.hero-area {
+	height: 1285px;
+}
+.hero-content {
+	text-align: center;
+}
+.hero-title h5::before, .hero-title h5::after {
+	display: none;
+}
+.hero-title h1 {
+	font-size: 48px;
+	line-height: 51px;
+}
+.hero-description p {
+	width: 100%;
+}
+.hero-thumb img {
+	width: 100%;
+}
+.section-mean-title h1 {
+	font-size: 29px;
+}
+.about-left {
+	margin: 0;
+}
+.about-left::before {
+	right: 3px;
+}
+.about-thumb img {
+	width:100%;
+}
+.about-shape {
+	right: -36px;
+	top: 329px;
+}
+.about-shape.top-img-up-down img {
+	width: 80%;
+}
+.about-shape-two {
+	top: 321px;
+	left: 146px;
+}
+.about-shape-two.top-img-up-down2 img {
+	width: 80%;
+}
+.about-right {
+	margin-top: 77px;
+}
+.service-area .section-description p {
+	width: 88%;
+}
+.service-button {
+	text-align: left;
+	margin-bottom: 20px;
+}
+.skill-left {
+	position: relative;
+	left: 0;
+	bottom: 53px;
+}
+.skill-left {
+	position: relative;
+	left: 0;
+}
+.skill-thumb img {
+	width: 100%;
+}
+.skill-thumb-shape-one img {
+	width: 60%;
+}
+.skill-thumb-shape-two img {
+	width: 60%;
+}
+.skill-thumb img {
+	width: 100%;
+}
+.skill-area .section-description p {
+	width: 100%;
+}
+.skill-button {
+	text-align: left;
+}
+.row.counter-bg {
+	padding: 71px 0 42px;
+}
+.counter-single-box {
+	margin-bottom: 30px;
+}
+.counter-shape-one {
+	display: none;
+}
+.counter-shape-tow {
+	display: none;
+}
+.feature-area {
+	padding: 37px 0 70px;
+}
+.feature-area .section-title {
+	text-align: center;
+}
+.feature-area .section-description p {
+	width: 100%;
+}
+.feature-button {
+	text-align: center;
+	margin-bottom: 20px;
+}
+.feature-box-btn {
+	left: 124px;
+}
+.owl-prev, .owl-next {
+	display: none;
+}
+.testi-text p {
+	width: 84%;
+}
+.brand-area {
+    padding: 67px 43px 72px;
+	background: #FEF4F3;
+}
+.subscribe-area .section-description p {
+	width: 81%;
+}
+.form-box input {
+	width: 70%;
+	height: 44px;
+	padding: 0 122px 0 21px;
+}
+.subscribe-area .button {
+	bottom: 107px;
+	right: 68px;
+}
+.button .btn {
+	font-size: 12px;
+	padding: 11px 18px;
+}
+.button .btn i {
+	font-size: 11px;
+	margin-left: 3px;
+}
+.recent-post-item.active {
+	padding-bottom: 29px;
+}
+.recent-tost-text {
+	text-align: left;
+}
+.footer-bottom-conten {
+	margin-bottom: 15px;
+}
+.footer-bottom-right {
+	text-align: center;
+}
+.team-area .section-description p {
+	width: 99%;
+}
+.tem-buttom {
+	text-align: left;
+}
+.blog-details-meta a {
+	margin-right: 5px;
+}
+.blog-details-area .form-boxs input {
+	width: 113%;
+}
+.meta-blog-right {
+	margin-left: 2px;
+}
+.blog-details-title a h1 {
+	font-size: 23px;
+}
+.blog-details-title-two h3 {
+	font-size: 28px;
+}
+.blog-grid-area .section-description p {
+	width: 100%;
+}
+.single-blogs-thumb img {
+	margin-bottom: 20px;
+}
+.service-details .form-boxs input {
+	width: 110%;
+}
+.service-details .search-button{
+	right:58px;
+}
+.protfolio-area .section-description p {
+	width: 74%;
+}
+.pracing-single-box {
+	margin-bottom: 30px;
+}
+.price-btn a {
+	margin: 39px 123px;
+}
+.contacts-titles h2 {
+	margin: 20px 0 34px;
+}
+#scrollUp {
+	right: 25px;
+}
+}
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+.sub-menu ul li a::before {
+	bottom: 0px;
+}		
+.topber-area {
+	display: none;
+}
+.header-area {
+	display: none;
+}
+.hero-area {
+	height: 1095px;
+}
+.hero-content {
+	text-align: center;
+}
+.hero-title h1 {
+	font-size: 31px;
+	line-height: 26px;
+	font-weight: 600;
+}
+.hero-title h5 {
+	font-size: 17px;
+} 
+.hero-title h5::before, .hero-title h5::after{
+	display:none;
+}
+.hero-description p {
+	width: 100%;
+}
+.hero-button {
+	margin-bottom: 33px;
+}
+.hero-thumb img {
+	width: 100%;
+}
+.section-mean-title h1 {
+	font-size: 19px;
+}
+.about-area {
+	padding: 35px 0 39px;
+}
+.about-left {
+	margin: 0 0 44px;
+}
+.about-thumb img {
+	width: 100%;
+}
+.about-left::before {
+	top: 4px;
+	right: 0px;
+	height: 98px;
+}
+.about-shape {
+	display: none;
+}
+.about-shape-two {
+	display: none;
+}
+.section-sub-title h3 {
+	font-size: 18px;
+}
+.section-description p {
+	width: 100%;
+}
+.abt-sngle-box {
+	margin: 0;
+}
+.about-icon i {
+	width: 15px;
+	height: 15px;
+	font-size: 8px;
+	margin-right: 10px;
+}
+.about-title h3 {
+	font-size: 12px;
+}
+.about-button {
+	text-align: left;
+}
+.service-area {
+	padding: 37px 0 12px;
+}
+.service-area .section-description p {
+	width: 100%;
+}
+.service-button {
+	text-align: left;
+	margin-bottom: 20px;
+}
+.skill-area {
+	padding: 79px 0 30px;
+}
+.skill-left {
+	position: relative;
+	left: 0;
+	bottom: 35px;
+}
+.skill-thumb img {
+	width: 100%;
+}
+.skill-thumb-shape-one img {
+	width: 30%;
+}
+.skill-thumb-shape-one {
+	right: -106px;
+}
+.skill-thumb-shape-two {
+	left: 65px;
+}
+.skill-thumb-shape-two img {
+	width: 30%;
+}
+.skill-area .section-description p {
+	width: 100%;
+}
+.skill-button {
+	text-align: left;
+}
+.counter-area {
+	padding: 10px 0 26px;
+}
+.row.counter-bg {
+	padding: 64px 0 42px;
+}
+.counter-shape-one {
+	display: none;
+}
+.counter-shape-tow {
+	display: none;
+}
+.counter-single-box {
+	margin-bottom: 30px;
+}
+.feature-area {
+	padding: 21px 0 18px;
+}
+.feature-area .section-description p {
+	width: 100%;
+}
+.feature-box-btn {
+	left: 52px;
+}
+.testimonial-area {
+	padding: 57px 0 57px;
+}
+.owl-prev, .owl-next{
+	display:none;
+}
+.testi-text p {
+	font-size: 16px;
+	width: 100%;
+	line-height: 24px;
+}
+.brand-area {
+    background: #FEF4F3;
+    padding: 67px 85px 72px;
+}
+.subscribe-area {
+	padding: 65px 0 35px;
+}
+.subscribe-area .section-description p {
+	width: 100%;
+	font-size: 15px;
+}
+.form-box input {
+	width: 86%;
+	height: 45px;
+	padding: 0 92px 0 21px;
+}
+.subscribe-area .button {
+	bottom: 107px;
+	right: 21px;
+}
+.button .btn {
+	font-size: 12px;
+	font-weight: 600;
+	padding: 12px 5px;
+}
+.button .btn i {
+	font-size: 10px;
+	margin-left: 6px;
+} 
+.email-description input {
+	margin-top: 16px;
+}
+.email-description p {
+	margin-top: 8px;
+}
+.footer-area {
+	text-align: center;
+}
+.single-footer-box {
+	margin-bottom: 20px;
+}
+.footer-bottom-conten {
+	text-align: center;
+	margin-bottom: 10px;
+}
+.footer-title h3 {
+	margin-bottom: 19px;
+}
+.footer-bottom-right {
+	text-align: center;
+}
+.footer-bottom-right a {
+	font-size: 14px;
+	padding-left: 6px;
+}
+.feature-button {
+	text-align: center;
+	margin-bottom: 30px;
+}
+.team-area .section-description p {
+	width: 93%;
+	margin-top: 27px;
+}
+.tem-buttom {
+	text-align: left;
+}
+.breadcumb-title h1 {
+	font-size: 52px;
+}
+.blog-details-content {
+	padding: 25px 21px 39px;
+}
+.sidebar-box {
+	padding: 34px 26px 46px;
+}
+.blog-details-meta a {
+	margin-right: 1px;
+	font-size: 10px;
+}
+.blog-details-meta span {
+	margin-right: 1px;
+	font-size: 10px;
+}
+.meta-blog-right {
+	margin-left: 4px;
+	font-size: 10px;
+}
+.blog-details-title a h1 {
+	font-size: 16px;
+}
+.blog-details-title-two h3 {
+	font-size: 17px;
+}
+.service-details .search-button {
+	right: 57px;
+}
+.sidebar-menu ul li a {
+	font-size: 15px;
+}
+.blog-details-area .search-button {
+	right: 73px;
+}
+.blog-grid-area .section-description p {
+	width: 100%;
+}
+.single-blogs-thumb img {
+	margin-bottom: 20px;
+}
+.breadcumb-title h1 {
+	font-size: 42px;
+}
+.service-details .service-icon-box p {
+	font-size: 15px;
+}
+.single-contacts-boxs {
+	margin: 0 -38px 0;
+}
+.contacts-titles h2 {
+	font-size: 29px;
+	margin-top: 10px;
+}
+.faq-area .section-mean-title h1 {
+	font-size: 22px;
+}
+
+.faq-area .accordion h3 {
+	font-size: 11px;
+}
+.faq-area .accordion li h3 strong::before {
+	top: -5px;
+}
+.faq-area .accordion li h3 strong {
+	margin-bottom: 15px;
+}
+.protfolio-area .section-description p {
+	width: 93%;
+}
+.pracing-single-box {
+	margin-bottom: 30px;
+}
+.price-btn a {
+	margin: 38px 41px;
+}
+.single-contacts-boxs {
+	margin: 0 -66px 0;
+}
+#scrollUp {
+	right: 12px;
+}
+
+}
+
+
+
